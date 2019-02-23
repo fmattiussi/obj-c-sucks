@@ -6,7 +6,7 @@ Xocde 4.6 is the last version supportend by the Mac and it contains the iOS 6.1 
 This app is really simple, you can add items in a TableView (also adding items from the clipboard) an when you click once of them the app saves the selected aitem in the clipboard, so it's a clip collection I suppose 😅.
 ## 🤔 - Why i have created this app?
 Good question, leggi questo articolo per placare la tua sete di informazioni:
-## Screenshots
+## 📸 - Screenshots
 ### 📱 - The app
 ![1](https://i.imgur.com/q6WuMyI.png) ![1a](https://i.imgur.com/7hQae55.png) ![1c](https://i.imgur.com/MFyKBfq.png)
 ### 🌍 - Is possible to insert copied text from a website 
